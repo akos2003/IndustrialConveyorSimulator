@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="IndustrialConveyorSimulator/IndustrialConveyorSimulator.vcxproj" Id="9694d629-5270-4384-9caa-a0f9eb3e5199" />
+</Solution>
